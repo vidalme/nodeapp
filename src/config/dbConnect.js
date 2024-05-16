@@ -7,5 +7,3 @@ async function conectaNaDatabase(){
 
 export default conectaNaDatabase;
 
-//string de conexao
-//
