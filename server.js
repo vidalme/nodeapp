@@ -1,8 +1,9 @@
 // import http from "http";
+import "dotenv/config";
 import app from "./src/app.js";
 
 const PORT1 = 3000;
-const PORT2 = 3002;
+// const PORT2 = 3002;
 
 // const rotas1 = {
 //     "/": "Curso de node.js!",
