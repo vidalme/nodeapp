@@ -1,0 +1,17 @@
+[
+    {
+        "_id": "6646f4f3a02b42ebab576930",
+        "nome": "Frank Herbert",
+        "nacionalidade": "Americano"
+    },
+    {
+        "_id": "6646f4f8a02b42ebab576932",
+        "nome": "Friedrich Nietzsche",
+        "nacionalidade": "Alemão"
+    },
+    {
+        "_id": "6646f9aa1deef063497042d2",
+        "nome": "Platão",
+        "nacionalidade": "Grego"
+    }
+]

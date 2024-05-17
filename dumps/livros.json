@@ -1,0 +1,38 @@
+[
+    {
+        "_id": "6646f52aa02b42ebab576937",
+        "titulo": "Assim falou zaratustra",
+        "editora": "Niilista",
+        "preco": 24,
+        "paginas": 101,
+        "autor": {
+            "nome": "Friedrich Nietzsche",
+            "nacionalidade": "Alemão",
+            "_id": "6646f4f8a02b42ebab576932"
+        }
+    },
+    {
+        "_id": "6646f75f5e1f3f50ce930c09",
+        "titulo": "Dune",
+        "editora": "HardScifi",
+        "preco": 33,
+        "paginas": 331,
+        "autor": {
+            "nome": "Frank Herbert",
+            "nacionalidade": "Americano",
+            "_id": "6646f4f3a02b42ebab576930"
+        }
+    },
+    {
+        "_id": "6646f76c5e1f3f50ce930c0d",
+        "titulo": "Dune Messiah",
+        "editora": "HardScifi",
+        "preco": 23,
+        "paginas": 221,
+        "autor": {
+            "nome": "Frank Herbert",
+            "nacionalidade": "Americano",
+            "_id": "6646f4f3a02b42ebab576930"
+        }
+    }
+]
